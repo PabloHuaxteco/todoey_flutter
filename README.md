@@ -1,16 +1,50 @@
-# todoey_flutter
+# 📝 Todoey - Task Manager App
 
-A new Flutter project.
+A simple and elegant to-do list app built with Flutter, created as part of a Flutter development course.
 
-## Getting Started
+## 📚 About the Project
 
-This project is a starting point for a Flutter application.
+**Todoey** is a productivity app that allows users to add, complete, and delete daily tasks. It demonstrates how to manage app state efficiently using the Provider package.
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Course Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project focuses on **state management**, **user interaction**, and **clean UI design** using Flutter’s layout system and the Provider architecture.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 What I Learned
+
+By creating this app, I learned:
+
+- 🔄 How to use the **provider** package for state management
+- 🧠 The concept of **ChangeNotifier** and **Consumer** widgets
+- 📱 How to build **dynamic lists** with ListView and ListTile
+- ➕ How to create **custom modal bottom sheets**
+- ✍️ How to handle **user input** via TextFields and FloatingActionButton
+- 🧼 How to refactor code using **model-view separation**
+- 🔁 How to update UI reactively when the state changes
+
+---
+
+## 🖼️ App Preview
+
+*Task list screen*
+
+<img src="documentation/screenshots/task_list.jpg" width="200" />
+
+*Add task modal*
+
+<img src="documentation/screenshots/add_task_modal.jpg" width="200" />
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+---
+
+## 📦 Packages
+
+- [provider](https://pub.dev/packages/provider) – Used for app-wide state management in a clean, scalable way.
+
+---
