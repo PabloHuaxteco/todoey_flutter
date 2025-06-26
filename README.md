@@ -25,14 +25,13 @@ By creating this app, I learned:
 ---
 
 ## 🖼️ App Preview
-
-*Task list screen*
-
-<img src="documentation/screenshots/task_list.jpg" width="200" />
-
-*Add task modal*
-
-<img src="documentation/screenshots/add_task_modal.jpg" width="200" />
+<table>
+  <tr>
+    <td align="center"><strong>Demo</strong><br><img src="documentation/gifs/demo.gif" width="250"/></td>
+    <td align="center"><strong>Task list screen</strong><br><img src="documentation/screenshots/task_list_screen.jpg" width="250"/></td>
+    <td align="center"><strong>Add task modal screen</strong><br><img src="documentation/screenshots/add_task_modal.jpg" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
